@@ -1,0 +1,23 @@
+body {
+    font-family: "Special-Elite", cursive;
+    background:darkkhaki;
+}
+.header_div {
+background: white;
+color: red;
+}
+.header_div p{
+    font-family: "roboto", sans-serif ;
+    font-size: 16px;
+    font-weight: bold;
+    color: darkgrey;
+    letter-spacing: 4px;
+}
+button{
+    letter-spacing: 5px;
+    font-size: 100px;
+    height: 40;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: "roboto", sans-serif;
+}
